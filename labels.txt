@@ -1,0 +1,3 @@
+0 Es Juan
+1 NO es Juan
+2 No hay nadie
